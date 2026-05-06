@@ -26,7 +26,7 @@ const products = [
   {
     id: 'beard-grooming-kit',
     name: 'Beard Grooming Kit',
-    price: 28000,
+    price: 17300,
     priceLabel: '₦17,300',
     image:
       'https://i.pinimg.com/736x/da/ef/a6/daefa6537c38d9c174d9ea63268e92e0.jpg',
@@ -36,7 +36,7 @@ const products = [
   {
     id: 'moisture-care-formula',
     name: 'Moisture Care Formula',
-    price: 10500,
+    price: 22500,
     priceLabel: '₦22,500',
     image:
       'https://i.pinimg.com/736x/49/4e/1b/494e1bc8ddabae64ef13bb0552c68961.jpg',
