@@ -39,7 +39,7 @@ const products = [
     price: 10500,
     priceLabel: '₦22,500',
     image:
-      'https://i.pinimg.com/736x/00/df/d6/00dfd6b785968437622d8ea493dc55ae.jpg',
+      'https://i.pinimg.com/736x/49/4e/1b/494e1bc8ddabae64ef13bb0552c68961.jpg',
     description:
       'Keeps locks smooth and shiny with formulas designed to seal in moisture and reduce dryness.',
   },
