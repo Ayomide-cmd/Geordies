@@ -27,7 +27,7 @@ const products = [
     id: 'beard-grooming-kit',
     name: 'Beard Grooming Kit',
     price: 28000,
-    priceLabel: '₦28,000',
+    priceLabel: '₦17,300',
     image:
       'https://i.pinimg.com/736x/da/ef/a6/daefa6537c38d9c174d9ea63268e92e0.jpg',
     description:
@@ -37,7 +37,7 @@ const products = [
     id: 'moisture-care-formula',
     name: 'Moisture Care Formula',
     price: 10500,
-    priceLabel: '₦10,500',
+    priceLabel: '₦22,500',
     image:
       'https://i.pinimg.com/736x/00/df/d6/00dfd6b785968437622d8ea493dc55ae.jpg',
     description:
@@ -54,7 +54,7 @@ export default function Page() {
         <div className="hero-text">
           <h1>Refined grooming, reserved for you.</h1>
           <p>
-            Book a considered haircut, beard service, or grooming appointment at
+            Book a haircut, beard service, or grooming appointment at
             Geordie’s, with care products selected for your daily routine.
           </p>
 

@@ -5,7 +5,6 @@ import Link from 'next/link'
 const contactLinks = [
   { href: 'tel:+2348012345678', label: '+234 801 234 5678' },
   { href: 'mailto:hello@geordies.ng', label: 'hello@geordies.ng' },
-  { href: 'https://wa.me/2348012345678', label: 'WhatsApp Us' },
   { href: '/contact', label: '14 Bayo Kuku Rd, Ikoyi' },
 ]
 
@@ -35,9 +34,7 @@ export default function Footer() {
           </div>
 
           <div className="footer-actions">
-            <Link href="/booking" className="footer-button">
-              Book Appointment
-            </Link>
+            
             
           </div>
         </div>
