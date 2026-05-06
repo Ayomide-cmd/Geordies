@@ -62,9 +62,10 @@ export default function CartDrawer() {
           <strong>₦{total.toLocaleString()}</strong>
         </div>
 
-        <a href="/booking" className="cart-checkout">
-          Checkout
-        </a>
+        <a href="/checkout" className="cart-checkout">
+  Checkout
+</a>
+
       </aside>
     </>
   )

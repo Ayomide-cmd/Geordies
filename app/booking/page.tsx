@@ -26,7 +26,7 @@ export default function BookingPage() {
     <main className="page booking-page">
       <section className="booking-hero">
         <p>Booking</p>
-        <h1>Reserve your appointment.</h1>
+        
         <span>
           Choose a service, share your preferred time, and the studio will
           confirm your appointment.

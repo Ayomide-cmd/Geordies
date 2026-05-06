@@ -20,6 +20,12 @@ export default function Navbar() {
           Shop Products <span className="arrow">↗</span>
         </Link>
       </div>
+
+      <nav className="mobile-links">
+        <Link href="/">Home</Link>
+        <Link href="/about">Our Story</Link>
+        <Link href="/contact">Contact</Link>
+      </nav>
     </header>
   )
 }
