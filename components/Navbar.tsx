@@ -12,7 +12,7 @@ export default function Navbar() {
 
         <nav className="links">
           <Link href="/">Home</Link>
-          <Link href="/about">Our Story</Link>
+          <Link href="/about">FAQ</Link>
           <Link href="/contact">Contact</Link>
         </nav>
 
@@ -23,7 +23,7 @@ export default function Navbar() {
 
       <nav className="mobile-links">
         <Link href="/">Home</Link>
-        <Link href="/about">Our Story</Link>
+        <Link href="/about">FAQ</Link>
         <Link href="/contact">Contact</Link>
       </nav>
     </header>
