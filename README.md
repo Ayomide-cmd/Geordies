@@ -1,4 +1,4 @@
-# Geordie's Salon — Next.js Website
+ # Geordie's Salon — Next.js Website
 
 A full Next.js 14 website for Geordie's Salon, Lagos.
 
